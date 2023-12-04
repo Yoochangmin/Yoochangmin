@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div style="display=flex; margin-right= 25px;text-align=center;">
+<div style="display=flex; margin-right= "25px";text-align=center;">
 <img src= "https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white">
 
