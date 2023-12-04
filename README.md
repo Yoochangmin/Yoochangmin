@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 
-<div style="display:flex; justify-content:space-around">
-<img src= "https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white">
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<div style="display: flex; justify-content: space-around;">
+  <img src= "https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
 
 
